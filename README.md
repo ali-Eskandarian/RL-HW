@@ -1,2 +1,6 @@
-# RL-HW
-Final project for Reinforcement Learning - AI course
+
+# Final project for Reinforcement Learning - AI course
+
+Welcome to the Reinforcement Learning Final Project repository! As part of my role as a TA for an AI course, I'm thrilled to present this project, which applies various reinforcement learning algorithms to solve tasks in the 'highway-v0' environment. The project is designed to be not only educational but also easily adaptable for other tasks, serving as a practical example for reinforcement learning applications. The included 'models.py' file houses the agents and models, while the 'main.py' file provides a straightforward framework for seamless implementation. Whether you're a seasoned RL enthusiast or just starting out, this project is ready to use and promises an exciting journey into the world of reinforcement learning.
+
+Get ready to witness the power of algorithms such as Value Iteration, Q-Learning, DQN, and Monte Carlo in action, as they tackle the challenges posed by the 'highway-v0' environment. This project is not just about lines of code; it's a gateway to understanding the practical implications of reinforcement learning. So, buckle up and join me in exploring how these algorithms navigate the virtual highways, and who knows, you might find inspiration for your own RL adventures along the way. The 'highway-v0' environment is just the beginning – this project is a testament to the endless possibilities that reinforcement learning unlocks. Let's dive in and unleash the potential of these algorithms in a fun and professional manner!
